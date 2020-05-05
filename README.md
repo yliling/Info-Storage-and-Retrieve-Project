@@ -17,7 +17,7 @@ CME: Collection Management ETDs</br>
 4. Specifying, extracting, and preparing metadata and auxiliary information for indexing
 
 
-[VTechWorks](https://vtechworks.lib.vt.edu/) Paper Link: Coming Soon...
+[VTechWorks](https://vtechworks.lib.vt.edu/) Paper Link: https://vtechworks.lib.vt.edu/handle/10919/96484
 
 All code are private, if you would like to view, Please feel free to contact me:
 
